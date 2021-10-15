@@ -20,7 +20,7 @@
     X-Content-Type-Options = "nosniff"
     Referrer-Policy = "no-referrer-when-downgrade"
     Feature-Policy = "camera 'none'; display-capture 'none'; document-domain 'none'; geolocation 'none'; microphone 'none'; payment 'none'; usb 'none'"
-    Content-Security-Policy = "default-src https://*.chost.citronbl.eu/; script-src https://*.chost.citronbl.eu/ https://www.google-analytics.com 'unsafe-inline'; style-src 'unsafe-inline'; img-src data: https://*.chost.citronbl.eu/ www.google-analytics.com"
+    Content-Security-Policy = "default-src https://chost.citronbl.eu/; script-src https://chost.citronbl.eu/ https://www.google-analytics.com 'unsafe-inline'; style-src 'unsafe-inline'; img-src data: https://chost.citronbl.eu/ www.google-analytics.com"
 
     
 
