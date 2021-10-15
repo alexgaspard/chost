@@ -1,3 +1,4 @@
+/*
     Content-Security-Policy: default-src https://*.chost.citronbl.eu/; script-src https://*.chost.citronbl.eu/ https://www.google-analytics.com 'unsafe-inline'; style-src 'unsafe-inline'; img-src data: https://*.chost.citronbl.eu/ www.google-analytics.com
     X-Frame-Options: DENY
     X-Content-Type-Options: nosniff
